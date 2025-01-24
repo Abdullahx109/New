@@ -1,0 +1,8 @@
+nav{
+    display: flex;
+    background: red;
+}
+ul li a{
+    display: flex;
+    justify-content: center;
+}
